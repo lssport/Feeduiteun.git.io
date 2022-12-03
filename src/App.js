@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-
+import logo from "./logo.svg";
 class App extends React.Component {
 constructor() {
  super();
