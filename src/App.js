@@ -21,7 +21,7 @@ render() {
       <div className='col-6'>
         <div className='card-wrapper p-4'>
           <div className='icon-wrapper mb-1'>
-            <i class="bi bi-wallet"></i>
+            <i class="bi bi-wallet2"></i>
   
             <span className='title-sm'>pemasukan</span>
             <h3 className='fw-bold'>Rp.2.000.000,-</h3>
@@ -31,7 +31,7 @@ render() {
               <div className='col-6'>
 <div className='card-wrapoer p-4'>
   <div className='icon-wrapper mb-1'>
-    <i class="bi bi-wallet"></i>
+    <i class="bi bi-wallet2"></i>
     <span className='title-sm'>pengeluaran</span>
     <h3 className='fw-bold'>Rp.1.000.000,-</h3>
 <span className='title-sm text-pink fw-bold'>50</span>
