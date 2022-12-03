@@ -49,7 +49,8 @@ render() {
   <div className='transaction ms-2 d-flex-column'>
     <h6>Menerima Gaji</h6>
     <span className='title-sm'>1 july 2022</span>
-    <h5 className='text-money in'>Rp.1.000.000</h5>
+    <h5 className='text-money-in'>Rp.1.000.000,</h5>
+    <h5 className='text-money-out'>Rp.20.000,</h5>
     </div>
     </div>
     </div>
