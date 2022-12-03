@@ -30,16 +30,20 @@ render() {
               <div className='col-12'>
                 <h4>ringkasan transaksi</h4>
                 <div className='wrapper-button'>
-       </div>
-       </div>
-       </div>
-       </div>
-       </div>
-       </div>
-       </div>
-       </div>
-       </div>
-       </div>   
+                  <button className='button btn-ungu px-3 py-2 me-2'>pemasukan<i class="bi bi-plu-circle-fill"></i></button>
+                  <button className='button btn-pink px-3 py-2'>pengeluaran<i class="bi bi-dash-circle-fill"></i></button>
+                  <div className='row mt-5'>
+                    <div classsName='col-12 d-flex justify-content-between align-items-center'>
+                      <div className='d-flex align-item-center'>
+                        <div className='icon-wrapper'>
+                          <i class="bi bi-wallet2"></i>
+  <div className='transaction ms-2 d-flex-column'>
+    <h6>Menerima Gaji</h6>
+    <span className='title-sm'>1 july 2022</span>
+    </div>
+  </div> </div></div></div> </div> </div>
+   </div> </div> </div> </div> </div></div>
+    </div></div>   
   );
 }
 }
