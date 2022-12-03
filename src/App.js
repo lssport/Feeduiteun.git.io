@@ -33,7 +33,7 @@ render() {
   <div className='icon-wrapper mb-1'>
     <i class="bi bi-wallet"></i>
     <span className='title-sm'>pengeluaran</span>
-    <h3 className='fw-bold'>Rp.1.000.000,-</h>
+    <h3 className='fw-bold'>Rp.1.000.000,-</h3>
 <span className='title-sm text-pink fw-bold'>50</span>
 <span className='title-sm'>transaksi</span>
             <div className='row mt-5'>
@@ -52,9 +52,24 @@ render() {
     <span className='title-sm'>1 july 2022</span>
     <h5 className='money'>Rp.1.000.000</h5>
     </div>
-  </div> </div></div></div> </div> </div>
-   </div> </div> </div> </div> </div></div>
-    </div></div>   
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+  </div> 
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div> 
+  </div> 
+  </div>
+   </div>
+    </div>
+     </div>
   );
 }
 }
