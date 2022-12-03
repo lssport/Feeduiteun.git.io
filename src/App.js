@@ -1,6 +1,7 @@
 import React from "react";
 import "./style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+
 class App extends React.Component {
 constructor() {
  super();
@@ -40,6 +41,7 @@ render() {
   <div className='transaction ms-2 d-flex-column'>
     <h6>Menerima Gaji</h6>
     <span className='title-sm'>1 july 2022</span>
+    <h5 className='money'>Rp.1.000.000</h5>
     </div>
   </div> </div></div></div> </div> </div>
    </div> </div> </div> </div> </div></div>
