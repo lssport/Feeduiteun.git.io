@@ -33,7 +33,7 @@ render() {
     <i class="bi bi-cash-stack"></i>
     <span className='title-sm'>pengeluaran</span>
     <h3 className='fw-bold'>Rp.1.000.000,-</h3>
-<span className='title-sm text-pink fw-bold'>50</span>
+<span className='title-sm text-ungu fw-bold'>50</span>
 <span className='title-sm'>transaksi</span>
             <div className='row mt-5'>
               <div className='col-12 d-flex justify-content-between align-items-center'>
