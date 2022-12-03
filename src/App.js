@@ -8,9 +8,37 @@ constructor() {
 render() {
   return (
     <div className='container py-5'>
-      <h1>FEEDUITEUN APPS</h1>
+      <div className='row'>
+        <div className='col-12 text-center'>
+      <h1 className='fw-bold'>FEEDUITEUN APPS</h1>
+      <hr className='w-75 mx-auto'/>
+      <h2 className='fw-bold'>Rp.1.500.000,-</h2>
       <span className='title-md'>sisa uang kamu tersisa 75% lagi</span>
-    </div>
+
+    <div className='row'>
+      <div className='col-6'>
+        <div className='card-wrapper p-4'>
+          <div className='icon-wrapper mb-1'>
+            <i class='bi bi-wallet'></i>
+  
+            <span className='title-sm'>pemasukan</span>
+            <h3 className='fw-bold'>Rp.2.000.000,-</h3>
+            <span className='title-sm text-ungu fw-bold'>50</span>
+            <span className='title-sm'>transaksi</span>
+            <div className='row mt-5'>
+              <div className='col-12'>
+                <h4>ringkasan transaksi</h4>
+                <div className='wrapper-button'>
+       </div>
+       </div>
+       </div>
+       </div>
+       </div>
+       </div>
+       </div>
+       </div>
+       </div>
+       </div>   
   );
 }
 }
