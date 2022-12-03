@@ -11,6 +11,7 @@ h1 {
   background: linear-gradient(267,81deg, #3C3DBF 1,92%, #2998FF 106,64%);
   -webkit-background-clip: text;
   background-clip: text;
+  color: #2998FF;
 }
 h2 {
   font-size: 32px;
